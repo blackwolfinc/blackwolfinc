@@ -5,7 +5,18 @@
   />
 
 
-
+<div>
+    <a href="https://www.freelancer.com/affiliates/email/65189254/"><img src="https://cdn6.f-cdn.com/ppic/200762424/logo/65189254/profile_logo_65189254.jpg" style="float: left; margin-right: 20px; margin-bottom:10px; width:100px; max-height: 100px; border-radius: 50%;"></a>
+    <div style="min-height:40px;">
+        <a style="text-decoration: underline; font-weight: bold;" href="https://www.freelancer.com/affiliates/email/65189254/">Bagas Aji Nugroho</a>
+        <p style="margin: 0;margin-bottom: 6px; white-space: nowrap;overflow: hidden">Sr. Front End Developer &amp; UI/UX</p>
+        
+            <p style="margin: 0;">
+                
+                    <strong>P:</strong> 82228503323 
+                
+                
+            </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bagas+Aji....;Nice+to+meet+you!&center=true&size=30">
