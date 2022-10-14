@@ -8,7 +8,9 @@
 <div>
     <a href="https://www.freelancer.com/affiliates/email/65189254/"><img src="https://cdn6.f-cdn.com/ppic/200762424/logo/65189254/profile_logo_65189254.jpg" style="float: left; margin-right: 20px; margin-bottom:10px; width:100px; max-height: 100px; border-radius: 50%;"></a>
     <div style="min-height:40px;">
-        <a style="text-decoration: underline; font-weight: bold;" href="https://www.freelancer.com/affiliates/email/65189254/">Bagas Aji Nugroho</a>
+        <h1 style="text-decoration: underline; font-weight: bold;" >Bagas Aji Nugroho</h1>
+        <a style="text-decoration: underline; font-weight: bold;" href="https://www.freelancer.com/affiliates/email/65189254/">freelancer</a>
+        <a style="text-decoration: underline; font-weight: bold;" href="https://www.upwork.com/fl/~010c3b320b34c8fe89">UpWork</a>
         <p style="margin: 0;margin-bottom: 6px; white-space: nowrap;overflow: hidden">Sr. Front End Developer &amp; UI/UX</p>
         
           
