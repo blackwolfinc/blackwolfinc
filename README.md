@@ -1,438 +1,168 @@
-<!-- <h1 align="center">Hi 👋, I'm Bagas Aji Nugroho</h1> -->
-<img
-    src="https://komarev.com/ghpvc/?username=blackwolfinc&label=Profile%20views&color=0e75b6&style=flat"
-    alt="blackwolfinc"
-  />
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=180&section=header&text=Bagas%20Aji%20Nugroho&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20%2F%20ML%20Builder%20%7C%20Product%20Lead&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
 
-<div>
-    <a href="https://www.freelancer.com/affiliates/email/65189254/"><img src="https://cdn6.f-cdn.com/ppic/200762424/logo/65189254/profile_logo_65189254.jpg" style="float: left; margin-right: 20px; margin-bottom:10px; width:100px; max-height: 100px; border-radius: 50%;"></a>
-    <div style="min-height:40px;">
-        <h1 style="text-decoration: underline; font-weight: bold;" >Bagas Aji Nugroho</h1>
-        <a style="text-decoration: underline; font-weight: bold;" href="https://www.freelancer.com/affiliates/email/65189254/">freelancer</a>
-        <a style="text-decoration: underline; font-weight: bold;" href="https://www.upwork.com/fl/~010c3b320b34c8fe89">UpWork</a>
-        <p style="margin: 0;margin-bottom: 6px; white-space: nowrap;overflow: hidden">Sr. Front End Developer &amp; UI/UX</p>
-        
-          
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bagas+Aji....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<!-- Lattes Sklis -->
-<h3 align="left">Latest skills:</h3>
-<p align="left">
-    <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://miro.medium.com/max/1400/1*uUd3hjA3UL4sb-ejXMUN1Q.png"
-      alt="nodejs"
-      width="70"
-      height="40"
-    />
-  </a>
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://namespaceit.com/uploads/post/image/1626089870.jpg"
-      alt="nextjs"
-      width="70"
-      height="40"
-    />
-  </a>
-</p>
-<!-- Lattes Sklils End  -->
+<img src="https://komarev.com/ghpvc/?username=blackwolfinc&label=Profile+Views&color=58a6ff&style=flat-square" alt="profile views" />
+&nbsp;
+<a href="https://www.upwork.com/fl/~010c3b320b34c8fe89"><img src="https://img.shields.io/badge/Upwork-TOP%20RATED-14A800?style=flat-square&logo=upwork&logoColor=white" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" />
+
+</div>
+
+---
+
+## `$ whoami`
 
 ```python
+class Bagas:
+    name     = "Bagas Aji Nugroho"
+    role     = ["Country Manager @ CaritaHub", "Founder @ Black Wolf Tech Indonesia"]
+    location = "Batam, Indonesia 🇮🇩 → Singapore 🇸🇬"
+    languages = ["Indonesian", "English"]
 
+    stack    = {
+        "frontend"  : ["React", "Next.js", "TypeScript", "Tailwind CSS", "Flutter"],
+        "backend"   : ["Node.js", "FastAPI", "Express.js", "Golang"],
+        "ai_ml"     : ["LlamaIndex", "Ollama", "ROCm", "MLX", "Multi-Agent Systems"],
+        "data"      : ["ClickHouse", "PostgreSQL", "Meltano", "dbt"],
+        "infra"     : ["Docker", "Nginx", "Cloudflare", "Tailscale", "AWS"],
+    }
 
-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Bagas Aji Nugroho"
-        self.role = "Front End Engineer"
-        self.language_spoken = ["ina_INA", "en_US"]
+    currently_building = [
+        "🏥 CaritaHub — Senior Care AI Platform (Batam)",
+        "🐺 Black Wolf Tech Indonesia — Software House (Blitar)",
+        "🤖 Local LLM inference stack on Mac Studio M4 Max & AMD Ryzen AI",
+    ]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for dropping by. Let's build something meaningful. 🚀")
 
-
-me = SoftwareEngineer()
+me = Bagas()
 me.say_hi()
 ```
 
+---
 
+## 🔭 What I'm Working On
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏥 **CaritaHub** | Senior care technology platform — AI-powered NOK, Caregiver & Nursing Home apps | FastAPI · Flutter · ClickHouse · LlamaIndex |
+| 🤝 **CaritaHub × Kanopi** | 93-feature Home Care App partnership (NOK App, Caregiver v2, Web Admin) | React · Flutter · PostgreSQL |
+| 🐺 **Black Wolf Tech** | Full-stack software house — SaaS, EMR, ERP integrations (TOP RATED on Upwork) | Next.js · Golang · React Native |
+| 🖥️ **Local AI Infra** | ROCm on EVO-X2 AMD, MLX on Mac Studio M4 Max 64GB, Multi-agent orchestration | Ollama · MLX · ROCm · Redis |
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**AI / ML & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square&logo=llama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**DevOps & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Design & Testing**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/blackwolfinc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blackwolfinc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackwolfinc&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e&border_radius=10&langs_count=8" />
+</a>
+
+<br/>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackwolfinc&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=FF6B35&currStreakNum=white&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=blackwolfinc&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackwolfinc&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true&area_color=1a1a2e&border_radius=10" width="95%" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bagas-aji-nugroho)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/fl/~010c3b320b34c8fe89)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bagasajinugroho_)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/bwt.id)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/affiliates/email/65189254/)
+
+</div>
+
+---
+
+<div align="center">
 
 ```text
-🌞 Morning    129 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
-🌆 Daytime    371 commits    █████████████░░░░░░░░░░░░   51.82% 
-🌃 Evening    154 commits    █████░░░░░░░░░░░░░░░░░░░░   21.51% 
-🌙 Night      62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66%
-
+⏰ Coding Schedule (Based on Commits)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌞 Morning    18%   ████░░░░░░░░░░░░░░░░░░░░░
+🌆 Daytime    52%   █████████████░░░░░░░░░░░░   ← peak zone
+🌃 Evening    22%   █████░░░░░░░░░░░░░░░░░░░░
+🌙 Night       8%   ██░░░░░░░░░░░░░░░░░░░░░░░
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-<!-- //media -->
-<h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://linkedin.com/in/bagas aji nugroho" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="bagas aji nugroho"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/bagasajinugroho_" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="bagasajinugroho_"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.youtube.com/c/bwt.id" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="bwt.id"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.upwork.com/fl/~010c3b320b34c8fe89" target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/1024px-Upwork-logo.svg.png"
-      alt="bwt.id"
-      height="40"
-      width="90"
-  /></a>
-</p>
-<!--end of media -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=100&section=footer&reversal=false" />
 
-<!-- Style -->
-<div  align="left">
-<h3>For Style </h3>
-<p align="left">
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-      alt="materialize"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<!--  End Style-->
-<div>
-<!-- For Disign  -->
-<h3>For Design </h3>
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-      alt="blender"
-      width="40"
-      height="40"
-    />
-  </a>
-
- 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.adobe.com/products/xd.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-
-
-<!-- Testing  -->
-<h3>For Testing </h3>
-<p align="left">
- <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-      alt="cypress"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
-      alt="mocha"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-
-<h3 align="left">More Languages and Tools:</h3>  
-<p align="left">
-   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
- 
- 
- 
-  
- 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-    
-  
-</p>
-
-
-<!-- Stats  -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=blackwolfinc&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=blackwolfinc&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-      <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackwolfinc&layout=compact&langs_count=8&card_width=320" />
-</a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=blackwolfinc&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-<!-- End Of Stats -->
-
-
-
-
-
-  
-
-
-
-
-
-
-
-<hr/>
-
-
- <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=blackwolfinc&theme=oldie&column=3&margin-w=15&margin-h=15"
-      alt="blackwolfinc"
-  /></a>
-</p> 
-
-
+</div>
